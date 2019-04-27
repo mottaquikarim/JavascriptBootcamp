@@ -1,4 +1,4 @@
-![jscon](https://github.com/mottaquikarim/JavaScriptDevelopmentRemote/blob/master/assets/js.png?raw=true)
+![jscon](https://github.com/mottaquikarim/JavascriptBootcamp/blob/master/assets/js.png?raw=true)
 
 # JavaScript Bootcamp 
 🎉🎈🎂🍾🎊🍻💃
@@ -14,19 +14,19 @@ This body of text is a living document. It will be updated with course and lectu
 ## Table of Contents
 We will break this bootcamp up into a few sections -- and hopefully we can work through all the sections listed below!
 
-### [1. Introduction](https://mottaquikarim.github.io/JavaScriptDevelopmentRemote/stage/index.html?lecture=0)
+### [1. Introduction](https://mottaquikarim.github.io/JavascriptBootcamp/stage/index.html?lecture=0)
 
-### [2. Data Types](https://mottaquikarim.github.io/JavaScriptDevelopmentRemote/stage/index.html?lecture=21)
+### [2. Data Types](https://mottaquikarim.github.io/JavascriptBootcamp/stage/index.html?lecture=21)
 
-### [3. Functions](https://mottaquikarim.github.io/JavaScriptDevelopmentRemote/stage/index.html?lecture=22)
+### [3. Functions](https://mottaquikarim.github.io/JavascriptBootcamp/stage/index.html?lecture=22)
 
-### [4. Conditionals and Loops](https://mottaquikarim.github.io/JavaScriptDevelopmentRemote/stage/index.html?lecture=23)
+### [4. Conditionals and Loops](https://mottaquikarim.github.io/JavascriptBootcamp/stage/index.html?lecture=23)
 
-### [5. Object Literals](https://mottaquikarim.github.io/JavaScriptDevelopmentRemote/stage/index.html?lecture=24)
+### [5. Object Literals](https://mottaquikarim.github.io/JavascriptBootcamp/stage/index.html?lecture=24)
 
-### [6. Document Object Model](https://mottaquikarim.github.io/JavaScriptDevelopmentRemote/stage/index.html?lecture=25)
+### [6. Document Object Model](https://mottaquikarim.github.io/JavascriptBootcamp/stage/index.html?lecture=25)
 
-### [7. jQuery and Events](https://mottaquikarim.github.io/JavaScriptDevelopmentRemote/stage/index.html?lecture=26)
+### [7. jQuery and Events](https://mottaquikarim.github.io/JavascriptBootcamp/stage/index.html?lecture=26)
 
 ✅✅✅✅
 
