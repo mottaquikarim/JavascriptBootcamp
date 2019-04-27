@@ -34,7 +34,7 @@ We will break this bootcamp up into a few sections -- and hopefully we can work 
 
 * **[REPL Class Notes](https://repl.it/@mottaquikarim/ExpensiveVioletredClasslibrary)**
 * **[JS Fiddle](https://jsfiddle.net/6r7wna5u/)**
-* **[Class Notes](Class_Notes/April272019/color_swap/README.md)**
+* **[Class Notes](Class_Notes/April272019/color_swap/)**
 * **[FreeCodeCamp](https://www.freecodecamp.org)**
 
 ## Taq Karim
