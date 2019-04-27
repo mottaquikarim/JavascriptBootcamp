@@ -31,7 +31,7 @@ We will break this bootcamp up into a few sections -- and hopefully we can work 
 ✅✅✅✅
 
 ## Taq Karim
-<img src="https://github.com/mottaquikarim/JavaScriptDevelopmentRemote/blob/master/assets/taq.jpg?raw=true" style="width: 100px; height: auto;" width="100" align="left"> 
+<img src="https://github.com/mottaquikarim/JavascriptBootcamp/blob/master/assets/taq.jpg?raw=true" style="width: 100px; height: auto;" width="100" align="left"> 
 
 He is also . In his spare time, Taq is usually thinking about math, building software, tinkering on hardware hacks for home automation or hanging out with his cat, Layla Karim.
 
