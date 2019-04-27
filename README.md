@@ -30,6 +30,10 @@ We will break this bootcamp up into a few sections -- and hopefully we can work 
 
 ✅✅✅✅
 
+## Class Recap: April 27th 2019
+
+**[REPL Class Notes](https://repl.it/@mottaquikarim/ExpensiveVioletredClasslibrary)**
+
 ## Taq Karim
 <img src="https://github.com/mottaquikarim/JavascriptBootcamp/blob/master/assets/taq.jpg?raw=true" style="width: 100px; height: auto;" width="100" align="left"> 
 
