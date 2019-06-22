@@ -39,7 +39,7 @@ We will break this bootcamp up into a few sections -- and hopefully we can work 
 
 ## Class Recap: June 22th 2019
 
-* **[REPL Class Notes](hhttps://repl.it/@mottaquikarim/ImmaculateLiquidOpenlook)**
+* **[REPL Class Notes](https://repl.it/@mottaquikarim/ImmaculateLiquidOpenlook)**
 * **[FreeCodeCamp](https://www.freecodecamp.org)**
 
 ## Taq Karim
