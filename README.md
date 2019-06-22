@@ -37,6 +37,11 @@ We will break this bootcamp up into a few sections -- and hopefully we can work 
 * **[Class Notes](Class_Notes/April272019/color_swap/)**
 * **[FreeCodeCamp](https://www.freecodecamp.org)**
 
+## Class Recap: June 22th 2019
+
+* **[REPL Class Notes](hhttps://repl.it/@mottaquikarim/ImmaculateLiquidOpenlook)**
+* **[FreeCodeCamp](https://www.freecodecamp.org)**
+
 ## Taq Karim
 <img src="https://github.com/mottaquikarim/JavascriptBootcamp/blob/master/assets/taq.jpg?raw=true" style="width: 100px; height: auto;" width="100" align="left"> 
 
