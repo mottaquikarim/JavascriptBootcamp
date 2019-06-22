@@ -40,7 +40,7 @@ We will break this bootcamp up into a few sections -- and hopefully we can work 
 ## Class Recap: June 22th 2019
 
 * **[REPL Class Notes](https://repl.it/@mottaquikarim/ImmaculateLiquidOpenlook)**
-* **[JS Fiddle](https://jsfiddle.net/boilerplate/bootstrap)**
+* **[JS Fiddle](https://jsfiddle.net/7maLjx1r/)**
 * **[FreeCodeCamp](https://www.freecodecamp.org)**
 
 ## Taq Karim
